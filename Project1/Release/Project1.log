@@ -1,0 +1,16 @@
+﻿  game.c
+c:\users\qjack\source\class\project1\game.c(244): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\qjack\source\class\project1\game.c(244): warning C4024: 'wsleep': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\qjack\source\class\project1\game.c(245): warning C4047: '==': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\qjack\source\class\project1\game.c(1181): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\qjack\source\class\project1\game.c(1181): warning C4024: 'wsleep': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\qjack\source\class\project1\game.c(1182): warning C4047: '==': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\qjack\source\class\project1\game.c(1186): warning C4047: '==': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\qjack\source\class\project1\game.c(1207): warning C4047: '==': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\qjack\source\class\project1\game.c(1241): warning C4047: '==': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  코드를 생성하고 있습니다.
+  2 of 56 functions ( 3.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Project1.vcxproj -> C:\Users\qjack\source\Class\Project1\Release\InfinityStair.exe

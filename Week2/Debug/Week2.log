@@ -1,0 +1,4 @@
+﻿  Q11.c
+c:\users\qjack\source\class\week2\q11.c(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\qjack\source\class\week2\q11.c(18): warning C4101: 'N' :참조되지 않은 지역 변수입니다.
+  Week2.vcxproj -> C:\Users\qjack\source\Class\Week2\Debug\Week2.exe
